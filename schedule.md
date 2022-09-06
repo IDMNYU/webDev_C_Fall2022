@@ -1,4 +1,4 @@
-##### This is a living document - the [course wiki](https://github.com/IDMNYU/webDev_D_Spring2022/wiki) is the best place for up-to-date schedule info
+##### This is a living document - the [course wiki](https://github.com/IDMNYU/webDev_C_Fall2022/wiki) is the best place for up-to-date schedule info
 
 ### ⌖ Part 1 - Introduction to Web Dev ⌖
 #### Week 1 - [Introductions]()

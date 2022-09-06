@@ -15,6 +15,8 @@ rm- “remove file”- deletes a file forever (not the trash). doesn’t work on
 mv -  “move” - move file (will also overwrite a file if: "mv file.txt renamedFile.txt)
       
 ```
+###### Exercise - theZoo
+The animals are running the zoo. Download theZoo folder In terminal or power shell, using unix commands put all the animals in their proper places! 
 
 ###### Web Dev Texts + Tutorials - HTML
 * [MDN Intro to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
