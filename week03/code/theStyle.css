@@ -1,0 +1,39 @@
+body {
+    background-color: pink;
+    font-family: "courier"
+}
+
+main {
+    background-color: green;
+    border: 5px solid black;
+    font-family: 'Noto Sans Buhid', sans-serif;
+    margin: 40px;
+    padding: 1vw;
+}
+
+header {
+    background-color: blue;
+
+}
+
+h1 {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+ol {
+    background-color: purple;
+
+    padding: 3vw;
+}
+
+li {
+    background-color: white;
+    /* display: inline; */
+    padding: 3vw;
+    margin: 10px
+}
+a {
+    background-color: yellow;
+}
