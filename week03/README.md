@@ -3,8 +3,8 @@
 git status
 git add .
 git commit -m "I am saving my work. This is my commit message."
+git push 
 git status
-git push origin master
 ```
 
 #### Resources
