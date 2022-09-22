@@ -1,3 +1,39 @@
 body {
     background-color: green;
 }
+
+
+main{
+    display:flex;
+    background-color: pink;
+    flex-direction: column;
+
+}
+
+.potatoes {
+    background-color: red;
+    color: white;
+}
+
+.poatotes p {
+    margin: 25px;
+}
+
+p {
+    background-color: yellow;  
+    font-size: 40px;  
+    padding: 30px;
+    margin: 5vw;
+
+}
+
+#theBurger{
+    padding: 40px;
+    border: 50px solid black;
+    border-radius:100px;
+    /* display: none; */
+}
+
+#theBurger:hover{
+    background-color: blue;
+}
