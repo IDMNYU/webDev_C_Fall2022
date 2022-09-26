@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+}
+
+main {
+    background-color: green;
+    padding: 4vw;
+    margin: 50px;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    /* never forget border-radius is yr friend in 2022 */
+    border-radius: 100px;
+}
+
+p {
+ 
+    position: relative;
+}
+
+#colorSelect {
+    font-weight:bold;
+    font-size: 10vw;
+}

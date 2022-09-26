@@ -1,9 +1,8 @@
-##### HTML 5 Tags:
-  * [MDN article tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
-  * [MDN section tag ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
-  * [MDN header tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
-  * [MDN footer tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
-  * [MDN navigation tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
+
+##### Flexbox Display
+* [MDN Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+* [CSS-Trick on Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox Game](https://flexbox.webflow.com/)
 
   ##### CSS Units of Measurement
 * [w3 Schools CSS units](https://www.w3schools.com/cssref/css_units.asp)
@@ -11,7 +10,7 @@
 * [A Pixel is not a Pixel](https://www.quirksmode.org/blog/archives/2010/04/a_pixel_is_not.html)
 
 ##### Positioning
-* [MDN Getting STarted](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+* [MDN Getting Started](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 * [MDN Float Tutorial](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
 
 ##### MDN's CSS Layout [cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)
