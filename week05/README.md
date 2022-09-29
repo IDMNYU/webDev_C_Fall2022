@@ -1,9 +1,4 @@
 
-##### Flexbox Display
-* [MDN Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
-* [CSS-Trick on Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [Flexbox Game](https://flexbox.webflow.com/)
-
   ##### CSS Units of Measurement
 * [w3 Schools CSS units](https://www.w3schools.com/cssref/css_units.asp)
 * [MDN CSS units, lengths](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)

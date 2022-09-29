@@ -4,20 +4,33 @@ body {
 
 main {
     background-color: green;
+    display:flex;
+    flex-direction: column-reverse;
     padding: 4vw;
     margin: 50px;
-    font-size: 50px;
+    /* font-size: 15px; */
     font-family: 'Courier New', Courier, monospace;
     /* never forget border-radius is yr friend in 2022 */
     border-radius: 100px;
 }
 
 p {
- 
     position: relative;
+    margin: 35px;
+    background-color: pink ;
+    padding: 4vw;
+    text-align: center;
 }
 
 #colorSelect {
     font-weight:bold;
-    font-size: 10vw;
+    /* font-size: 40vw; */
+    color:white;
+    transform: rotateY(45deg)
 }
+
+.theTxt {
+    font-size: 4vw;
+}
+
+

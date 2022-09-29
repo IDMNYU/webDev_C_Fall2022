@@ -1,0 +1,48 @@
+main {
+    display:flex;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Noto Sans Buhid', sans-serif;
+    
+}
+h4 {
+    background-color: grey;
+    padding: 2vw;
+    border-radius: 100px;
+    margin: 2vw;
+   
+  
+}
+
+details {
+    /* background-color: rgba(100,100,100,.15); */
+    padding: 10px;
+
+}   
+
+details:hover {
+    color:rebeccapurple;
+}
+
+ details a:hover {
+    color: green;
+   
+}
+
+
+
+a:hover {
+    color:green;
+}
+a:visited{
+    color: hotpink;
+}
+
+ul {
+    list-style-type: none;
+    
+  
+    
+}
+
+
