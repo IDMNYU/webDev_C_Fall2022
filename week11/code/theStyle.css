@@ -1,0 +1,14 @@
+body {
+    background-color: hotpink;
+    font-size: 80px;
+}
+
+button {
+    padding: 3vw;
+    border-radius: 50px;
+}
+
+h5 {
+    background-color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
