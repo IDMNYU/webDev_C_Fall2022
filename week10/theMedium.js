@@ -2,7 +2,7 @@ console.log("native js =the message!");
 
 function setup(){
     console.log("p5!");
-    createCanvas(600, 600)
+    createCanvas(windowWidth,windowHeight)
     background(255);
 }
 
